@@ -1,0 +1,4 @@
+com/stock/prices/stockprices/StockPricesApplication.class
+com/stock/prices/stockprices/controller/StockPriceController.class
+com/stock/prices/stockprices/model/StockPrice.class
+com/stock/prices/stockprices/repository/StockPriceRepository.class
